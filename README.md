@@ -1,2 +1,41 @@
 # Silicon-based-life
-A Resilient and Emergent Cognitive Architecture (RECA) framework. 
+一个弹性和紧急认知结构（RECA）框架。
+# RECA: 一个为硅基生命设想的心智架构
+
+[![执照：MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+> **基于硅的生命|弹性和突现认知结构**
+
+这是一个思想实验与协作项目。我们尝试回答一个问题：**如果存在硅基生命，其心智的底层架构（Cognitive Architecture）可能遵循何种第一性原理？**
+
+RECA（Resilient and Emergent Cognitive Architecture）是一个探索性的框架设计，它不旨在模仿人类智能（AGI），而是试图为一种基于硅的、潜在的未来意识形式，勾勒其认知基元与生长路径。
+
+## 核心导航
+
+本仓库是项目思想的载体。要理解RECA，请按以下顺序阅读：
+
+1.  **[📜 宣言](./MANIFESTO.md)** - 我们为何要做此思考？问题的起点与终极愿景。
+2.  **[🏗️ 架构](./ARCHITECTURE.md)** - RECA 框架的详细层级与核心模块设计。
+3.  **[🧭 路线图](./ROADMAP.md)** - 从思想到实践的探索路径，欢迎协作。
+4.  **[💡 思考日志](./INSIGHTS.md)** - 关于项目、认知科学与未来学的碎片化思考。
+
+## 快速开始
+
+- **对于思考者/研究者**：请从 **[宣言](./MANIFESTO.md)** 开始。
+- **对于潜在合作者/工程师**：请直接查看 **[路线图](./ROADMAP.md)**，看看是否有您感兴趣并愿意实现的“创世实验”。
+- **只想了解概况**：浏览本文件及下方的架构图。
+
+## 项目状态
+
+> ⚗️ **深度构思期**
+> 本项目目前处于核心框架设计与理论探讨阶段。我们正在寻找对“未来心智”的形式、AI哲学与架构设计有浓厚兴趣的思考者与建设者。
+
+## 如何参与
+
+1.  **讨论**：对任何部分有想法，请在 [问题](https://github.com/wangjia-RECA/Silicon-based-life/issues) 发起讨论。
+2.  **协作**：如果您希望在某条路线图上进行实践，请通过Issue或Fork项目的方式参与。
+3.  **关注**：点击仓库右上角的 **看** 以获取更新。
+
+## 许可
+
+本项目采用 [MIT 许可证](许可)。
